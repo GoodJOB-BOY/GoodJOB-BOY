@@ -19,4 +19,4 @@ This study explores the use of **Google BERT's** language recognition to identif
 [![](images/discord.png)](https://discordapp.com/users/1180464720478744576)
 
 # 🛠 MY TOOL 🛠
-![](images/anaconda.png) ![](images/vscode.png) ![](images/python.png) ![](images/html.png) ![](images/git.png)
+![](images/anaconda.png) ![](images/vscode.png) ![](images/python.png) ![](images/html.png) ![](images/git.png) 
