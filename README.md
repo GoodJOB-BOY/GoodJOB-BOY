@@ -5,4 +5,9 @@ My name is Wei-Hsiang Hsu, but you can call me Tom. I am from Taiwan and hold a 
 <p align="center"> ✊<b>Never Give Up<b>   🖥<b>Lifelong learning<b>   😎<b>Enjoy life<b>
 
 # <h1 align="center"> 🤙 <b>Social Media<b> 🤙 </h1>
-<a href = "https://www.instagram.com/hiiamagoodguy/" target="_blank" rel="noopener noreferrer"><p align="center"><img src="images/instagram.png" alt="GitHub Icon" width="50">
+<a href = "https://www.instagram.com/hiiamagoodguy/" target="_blank" rel="noopener noreferrer"><p align="center">
+  <img src="images/instagram.png" alt="GitHub Icon" width="50">
+</a>
+<a href = "https://www.facebook.com/xu.w.xiang.77" target="_blank" rel="noopener noreferrer"><p align="center">
+  <img src="images/facebook.png" alt="GitHub Icon" width="50">
+</a>
