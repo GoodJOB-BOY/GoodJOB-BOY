@@ -9,7 +9,8 @@ This study explores the use of **Google BERT's** language recognition to identif
 - Using **Google BERT** for **modeling**, **parameter tuning**, and **fine-tuning**
 - Using **Selenium** to collect large-scale textual data
 - Using **LDA topic** model analyze the filtered data
-[Click here to view more detailed information about the paper](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Yak467/record?r1=21&h1=0) 👈
+
+  [Click here to view more detailed information about the paper](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Yak467/record?r1=21&h1=0) 👈
 
 # 🤙 Social Media 🤙
 [![](images/instagram.png)](https://www.instagram.com/hiiamagoodguy/) 
