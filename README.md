@@ -11,3 +11,4 @@ My name is Wei-Hsiang Hsu, but you can call me Tom. I am from Taiwan and hold a 
 [![](images/discord.png)](https://discordapp.com/users/1180464720478744576)
 
 # 🛠 MY TOOL 🛠
+![](images/anaconda.png) ![](images/vscode.png) ![](images/python.png) ![](images/html.png) ![](images/git.png)
