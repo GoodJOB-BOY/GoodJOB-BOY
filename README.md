@@ -19,7 +19,7 @@ My name is Wei-Hsiang Hsu, but you can call me Tom. I am from Taiwan and hold a 
     <img src="images/line.png" alt="Facebook Icon" width="50">
   </a>
   <!-- Discord -->
-  <a href="discordapp.com/users/1180464720478744576" target="_blank" rel="noopener noreferrer">
+  <a href="https://discordapp.com/users/1180464720478744576" target="_blank" rel="noopener noreferrer">
     <img src="images/discord.png" alt="Facebook Icon" width="50">
   </a>
 </div>
